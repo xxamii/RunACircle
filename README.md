@@ -6,7 +6,7 @@ It's an endless runner made in a minimalist style and placed in a circle. It was
 
 - Go to the game's page: <https://xamigames.itch.io/run-a-circle> and press "Run run a circle". You can play it in your browser.
 - To jump press Space.
-- To switch sides press C.
+- To switch to inside/outside circle press C.
 
 # What I Learned
 
