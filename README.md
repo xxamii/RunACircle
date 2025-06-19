@@ -11,4 +11,5 @@ It's an endless runner made in a minimalist style and placed in a circle. It was
 # What I Learned
 
 - Making a complete game with Unity and publishing it.
+- Working under time pressure.
 - How to implement custom gravity.
